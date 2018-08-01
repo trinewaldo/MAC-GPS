@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MAC Address Enabled GPS System</string>
+    <string name="title_activity_maps">MyGPSApp</string>
+</resources>
